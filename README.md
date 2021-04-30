@@ -1,34 +1,52 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center">
+    <img src="/.github/rocketseat.png" width="120" />    
+    <h1>Dash.go</h1>  
+    <p>📊 An administrative panel</p>    
+    <hr />    
+    <p>
+        <a href="https://rocketseat.com/"><img src="https://img.shields.io/badge/type-ignite-red" alt="Repo Type" /></a>
+        <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/language-typescript-blue" alt="Repo Main Language" /></a>
+        <img src="https://img.shields.io/badge/platform-web-blueviolet" alt="Project Platform" />                
+        <a href="https://github.com/zevdvlpr/ignite-reactjs-dashgo/tree/dev/LICENSE"><img src="https://img.shields.io/github/license/zevdvlpr/ignite-reactjs-dashgo?color=red&label=license" alt="Repo License" /></a>
+    </p>     
+    <p><a href="https://www.linkedin.com/in/zevdvlpr" target="_blank"><img src="https://img.shields.io/twitter/url?label=Connect%20%40zevdvlpr&logo=linkedin&url=https%3A%2F%2Fwww.twitter.com%2zevdvlpr%2F" alt="Follow" /></a><p>
+</div>
 
-## Getting Started
+# About
 
-First, run the development server:
+<!-- <img src="/.github/cover.png" width="700" />  -->
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+# Techs
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+ - [NextJS](https://nextjs.org/) 
+ - [ReactJS](https://reactjs.org/)
+ - [ChakraUI](https://chakra-ui.com/) 
+ - [MirageJS](https://miragejs.com/) 
+ - [TypeScript](https://www.typescriptlang.org/)
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+# Requirements
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+- [Git](https://git-scm.com/) installed
+- [Node](https://node.js.org/) installed
+- Npm or [Yarn](https://yarnpkg.com/) installed
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+# Usage
 
-## Learn More
+- Run `npm install` or `yarn install`.
+- Run `yarn dev` and access `http://localhost:3000`
 
-To learn more about Next.js, take a look at the following resources:
+# Authors
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [zevdvlpr](https://github.com/zevdvlpr)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<br>
+<br>
+<br>
+<br>
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<div align="center">
+  <h1>Open Source</h1>
+  <sub>Copyright © 2021-present, zevdvlpr.</sub>
+  <p>Dash.go <a href="https://github.com/zevdvlpr/ignite-reactjs-dashgo/tree/dev/LICENSE">is MIT licensed 💖</a></p>
+  <img src="/.github/rocketseat.png" width="35" />
+</div>
